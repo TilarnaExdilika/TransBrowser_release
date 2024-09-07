@@ -1,3 +1,4 @@
 {
-  "app_title": "TransBrowser",
+     "app_title": "My Application",
+     "hello": "Hello, World!"
 }
