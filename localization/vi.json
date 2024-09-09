@@ -65,7 +65,7 @@
   "timer": "Bộ hẹn giờ",
   "weather": "Thời tiết",
   "date_time": "Ngày & Giờ",
-  "made_with_love": "Làm với tình yêu ❤️ tại",
+  "made_with_love": "Làm với tình yêu ❤️ cùng",
   "basic_resources_by": "Tài nguyên cơ bản bởi",
   "background_by": "Nền bởi",
   "weather_geocoding_api_by": "API Thời tiết & Địa lý bởi",
@@ -78,5 +78,9 @@
   "donate": "Đóng góp",
   "become_a_sponsor": "Trở thành nhà tài trợ",
   "report_an_issue": "Báo cáo sự cố",
-  "reset_to_default": "Đặt lại về mặc định"
+  "reset_to_default": "Đặt lại về mặc định",
+  "whats_new": "Có gì mới trong TransBrowser",
+  "view_all_changelogs": "Xem tất cả nhật ký thay đổi",
+  "language_settings": "Cài đặt ngôn ngữ",
+  "language": "Ngôn ngữ"
 }
