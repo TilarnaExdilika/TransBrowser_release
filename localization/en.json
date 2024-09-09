@@ -82,5 +82,11 @@
   "whats_new": "What's new",
   "view_all_changelogs": "View All Changelogs",
   "language_settings": "Language Settings",
-  "language": "Language"
+  "language": "Language",
+  "photos_youve_liked": "Photos you've liked",
+  "photos": "Photos",
+  "unlike": "Unlike",
+  "open_image": "Open Image",
+  "image_download_quality": "Image Download Quality",
+  "custom_collections": "Custom Collections"
 }
