@@ -155,5 +155,6 @@
   "celsius": "Celsius",
   "fahrenheit": "Fahrenheit",
   "no_options": "No options",
-  "failed_to_fetch_locations": "Failed to fetch locations"
+  "failed_to_fetch_locations": "Failed to fetch locations",
+  "photo_by": "photo by "
 }
