@@ -153,5 +153,7 @@
   "temperature": "Nhiệt độ",
   "temperature_and_summary": "Nhiệt độ và Tóm tắt",
   "celsius": "Celsius",
-  "fahrenheit": "Fahrenheit"
+  "fahrenheit": "Fahrenheit",
+  "no_options": "Không có tùy chọn",
+  "failed_to_fetch_locations": "Không thể lấy vị trí"
 }

@@ -153,5 +153,7 @@
   "temperature": "Temperature",
   "temperature_and_summary": "Temperature and Summary",
   "celsius": "Celsius",
-  "fahrenheit": "Fahrenheit"
+  "fahrenheit": "Fahrenheit",
+  "no_options": "No options",
+  "failed_to_fetch_locations": "Failed to fetch locations"
 }
