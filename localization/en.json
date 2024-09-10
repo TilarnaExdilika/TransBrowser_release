@@ -135,5 +135,10 @@
   "you_havent_liked_photos": "You haven't liked any photos yet. Photos you like will show up here.",
   "new_collection": "New Collection",
   "new_collection_description": "Enter keywords/tags of the topic you want to see in the backgrounds. e.g. snow, mountains, etc.",
-  "keywords": "Keywords"
+  "keywords": "Keywords",
+  "create": "Create",
+  "cancel": "Cancel",
+  "reset_to_default_settings": "Reset to default settings?",
+  "are_you_sure_reset": "Are you sure you want to reset all settings to default? This cannot be reversed.",
+  "note_clear_liked_photos": "Note that this will also clear your liked photos!"
 }

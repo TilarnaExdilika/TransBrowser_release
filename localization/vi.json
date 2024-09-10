@@ -135,5 +135,10 @@
   "you_havent_liked_photos": "Bạn chưa thích ảnh nào. Những ảnh bạn thích sẽ hiển thị ở đây.",
   "new_collection": "Bộ sưu tập mới",
   "new_collection_description": "Nhập từ khóa/nhãn của chủ đề bạn muốn xem trong các nền. Ví dụ: tuyết, núi, v.v.",
-  "keywords": "Từ khóa"
+  "keywords": "Từ khóa",
+  "create": "Tạo",
+  "cancel": "Hủy",
+  "reset_to_default_settings": "Đặt lại về mặc định?",
+  "are_you_sure_reset": "Bạn có chắc chắn muốn đặt lại tất cả cài đặt về mặc định? Điều này không thể đảo ngược.",
+  "note_clear_liked_photos": "Lưu ý rằng điều này cũng sẽ xóa các ảnh bạn đã thích!"
 }
