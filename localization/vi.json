@@ -155,5 +155,6 @@
   "celsius": "Độ C",
   "fahrenheit": "Độ F",
   "no_options": "Không có tùy chọn",
-  "failed_to_fetch_locations": "Không thể lấy vị trí"
+  "failed_to_fetch_locations": "Không thể lấy vị trí",
+  "photo_by": "ảnh bởi "
 }
