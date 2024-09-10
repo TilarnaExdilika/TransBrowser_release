@@ -131,5 +131,9 @@
   "text_after": "Text After",
   "location_city": "City",
   "temperature_unit": "Temperature Unit",
-  "date_format": "Date Format"
+  "date_format": "Date Format",
+  "you_havent_liked_photos": "You haven't liked any photos yet. Photos you like will show up here.",
+  "new_collection": "New Collection",
+  "new_collection_description": "Enter keywords/tags of the topic you want to see in the backgrounds. e.g. snow, mountains, etc.",
+  "keywords": "Keywords"
 }
