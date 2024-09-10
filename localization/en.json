@@ -118,5 +118,18 @@
   "heavy_snow_showers": "Heavy Snow Showers",
   "thunderstorm": "Thunderstorm",
   "thunderstorm_with_slight_hail": "Thunderstorm with Slight Hail",
-  "thunderstorm_with_heavy_hail": "Thunderstorm with Heavy Hail"
+  "thunderstorm_with_heavy_hail": "Thunderstorm with Heavy Hail",
+  "size": "Size",
+  "newLine": "New Line",
+  "show_seconds": "Show Seconds",
+  "colored_second_hand": "Colored Second Hand",
+  "alignment": "Alignment",
+  "radius": "Radius",
+  "text_before": "Text Before",
+  "date": "Date",
+  "time": "Time",
+  "text_after": "Text After",
+  "location_city": "City",
+  "temperature_unit": "Temperature Unit",
+  "date_format": "Date Format"
 }

@@ -118,5 +118,18 @@
   "heavy_snow_showers": "Tuyết rơi nặng",
   "thunderstorm": "Bão sấm",
   "thunderstorm_with_slight_hail": "Bão sấm với mưa đá nhẹ",
-  "thunderstorm_with_heavy_hail": "Bão sấm với mưa đá nặng"
+  "thunderstorm_with_heavy_hail": "Bão sấm với mưa đá nặng",
+  "size": "Kích thước",
+  "newLine": "Dòng mới",
+  "show_seconds": "Hiện giây",
+  "colored_second_hand": "Kim giây màu",
+  "alignment": "Căn chỉnh",
+  "radius": "Bán kính",
+  "text_before": "Văn bản trước",
+  "date": "Ngày",
+  "time": "Giờ",
+  "text_after": "Văn bản sau",
+  "location_city": "Thành phố",
+  "temperature_unit": "Đơn vị nhiệt độ",
+  "date_format": "Định dạng ngày"
 }
