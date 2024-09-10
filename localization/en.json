@@ -141,5 +141,17 @@
   "reset_to_default_settings": "Reset to default settings?",
   "are_you_sure_reset": "Are you sure you want to reset all settings to default? This cannot be reversed.",
   "note_clear_liked_photos": "Note that this will also clear your liked photos!",
-  "yes_reset": "Yes, Reset!"
+  "yes_reset": "Yes, Reset!",
+  "timer_seconds": "Seconds",
+  "timer_minutes": "Minutes",
+  "timer_hours": "Hours",
+  "timer_days": "Days",
+  "timer_years": "Years",
+  "timer_descriptive": "Descriptive",
+  "timer_descriptive_with_seconds": "Descriptive (with Seconds)",
+  "timer_countdown": "Countdown",
+  "temperature": "Temperature",
+  "temperature_and_summary": "Temperature and Summary",
+  "celsius": "Celsius",
+  "fahrenheit": "Fahrenheit"
 }

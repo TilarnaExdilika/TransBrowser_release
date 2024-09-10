@@ -141,5 +141,17 @@
   "reset_to_default_settings": "Đặt lại về mặc định?",
   "are_you_sure_reset": "Bạn có chắc chắn muốn đặt lại tất cả cài đặt về mặc định? Điều này không thể đảo ngược.",
   "note_clear_liked_photos": "Lưu ý rằng điều này cũng sẽ xóa các ảnh bạn đã thích!",
-  "yes_reset": "Có, Đặt lại!"
+  "yes_reset": "Có, Đặt lại!",
+  "timer_seconds": "Giây",
+  "timer_minutes": "Phút",
+  "timer_hours": "Giờ",
+  "timer_days": "Ngày",
+  "timer_years": "Năm",
+  "timer_descriptive": "Mô tả",
+  "timer_descriptive_with_seconds": "Mô tả (có giây)",
+  "timer_countdown": "Đếm ngược",
+  "temperature": "Nhiệt độ",
+  "temperature_and_summary": "Nhiệt độ và Tóm tắt",
+  "celsius": "Celsius",
+  "fahrenheit": "Fahrenheit"
 }
