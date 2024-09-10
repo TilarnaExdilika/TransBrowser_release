@@ -140,5 +140,6 @@
   "cancel": "Cancel",
   "reset_to_default_settings": "Reset to default settings?",
   "are_you_sure_reset": "Are you sure you want to reset all settings to default? This cannot be reversed.",
-  "note_clear_liked_photos": "Note that this will also clear your liked photos!"
+  "note_clear_liked_photos": "Note that this will also clear your liked photos!",
+  "yes_reset": "Yes, Reset!"
 }

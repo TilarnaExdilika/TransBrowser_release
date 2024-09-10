@@ -140,5 +140,6 @@
   "cancel": "Hủy",
   "reset_to_default_settings": "Đặt lại về mặc định?",
   "are_you_sure_reset": "Bạn có chắc chắn muốn đặt lại tất cả cài đặt về mặc định? Điều này không thể đảo ngược.",
-  "note_clear_liked_photos": "Lưu ý rằng điều này cũng sẽ xóa các ảnh bạn đã thích!"
+  "note_clear_liked_photos": "Lưu ý rằng điều này cũng sẽ xóa các ảnh bạn đã thích!",
+  "yes_reset": "Có, Đặt lại!"
 }
