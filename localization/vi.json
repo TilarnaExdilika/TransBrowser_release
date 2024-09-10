@@ -152,8 +152,8 @@
   "timer_countdown": "Đếm ngược",
   "temperature": "Nhiệt độ",
   "temperature_and_summary": "Nhiệt độ và Tóm tắt",
-  "celsius": "Celsius",
-  "fahrenheit": "Fahrenheit",
+  "celsius": "Độ C",
+  "fahrenheit": "Độ F",
   "no_options": "Không có tùy chọn",
   "failed_to_fetch_locations": "Không thể lấy vị trí"
 }
