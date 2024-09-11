@@ -157,5 +157,11 @@
   "no_options": "Không có tùy chọn",
   "failed_to_fetch_locations": "Không thể lấy vị trí",
   "photo_by": "ảnh bởi ",
-  "search": "Tìm kiếm..."
+  "search": "Tìm kiếm...",
+  "tabs": "Tab",
+  "favorite": "Yêu thích",
+  "history": "Lịch sử",
+  "archive": "Lưu trữ",
+  "developers": "Nhà phát triển",
+  "info": "Thông tin"
 }
