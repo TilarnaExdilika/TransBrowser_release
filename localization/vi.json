@@ -164,5 +164,13 @@
   "archive": "Lưu trữ",
   "developers": "Nhà phát triển",
   "info": "Thông tin",
-  "enter_url": "Nhập URL"
+  "enter_url": "Nhập URL",
+  "temporary_stack": "Ngăn xếp tạm thời",
+  "favorites": "Yêu thích",
+  "block_new_tabs": "Chặn các tab mới",
+  "auto_translate": "Tự động dịch",
+  "ads_blocked": "Quảng cáo đã bị chặn",
+  "close_tabs": "Đóng tab",
+  "new_tab": "Tab mới",
+  "new_incognito_tab": "Tab ẩn danh mới"
 }

@@ -164,5 +164,13 @@
   "archive": "Archive",
   "developers": "Developers",
   "info": "Info",
-  "enter_url": "Enter URL"
+  "enter_url": "Enter URL",
+  "temporary_stack": "Temporary Stack",
+  "favorites": "Favorites",
+  "block_new_tabs": "Block New Tabs",
+  "auto_translate": "Auto Translate",
+  "ads_blocked": "Ads Blocked",
+  "close_tabs": "Close Tabs",
+  "new_tab": "New Tab",
+  "new_incognito_tab": "New Incognito Tab"
 }
