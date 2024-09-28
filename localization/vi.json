@@ -169,7 +169,8 @@
   "favorites": "Yêu thích",
   "block_new_tabs": "Chặn các tab mới",
   "auto_translate": "Tự động dịch",
-  "ads_blocked": "Quảng cáo đã bị chặn",
+  "ads_blocker": "Chặn quảng cáo (Thử nghiệm)",
+  "optimize_performance": "Tối ưu hiệu suất",
   "close_tabs": "Đóng tab",
   "new_tab": "Tab mới",
   "new_incognito_tab": "Tab ẩn danh mới"

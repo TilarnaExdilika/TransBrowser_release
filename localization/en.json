@@ -169,7 +169,8 @@
   "favorites": "Favorites",
   "block_new_tabs": "Block New Tabs",
   "auto_translate": "Auto Translate",
-  "ads_blocked": "Ads Blocked",
+  "ads_blocker": "Ads Blocker (Beta)",
+  "optimize_performance": "Optimize Performance",
   "close_tabs": "Close Tabs",
   "new_tab": "New Tab",
   "new_incognito_tab": "New Incognito Tab"
